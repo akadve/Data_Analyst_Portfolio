@@ -62,6 +62,6 @@ Looking forward to hearing from you! 📬
 
 Cheers,  
 Annmay Kadve ✌️  
-📧 Email: [Your Email Address]  
+📧 Email: amkadve1@gmail.com
 🔗 LinkedIn: [Annmay Kadve](https://linkedin.com/in/annmay-kadve)  
 📂 GitHub: [GitHub Profile](https://github.com/your-github-profile)  
