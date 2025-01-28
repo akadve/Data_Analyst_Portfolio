@@ -6,7 +6,7 @@ I'm Annmay Kadve, your friendly neighborhood Data Analyst 🦸‍♂️ armed wi
 ---
 
 ## What’s in the Box? 🎁  
-Here’s a sneak peek at the treasure trove of projects I’ve included in this portfolio:
+Here’s a sneak peek at the treasure trove of projects I’ve included in this portfolio(Some are yet to be uploaded):
 
 ### 1. **Python: Unleashing the Power of Pandas 🐼**  
 - 🛒 *Project: Supermarket Sales Analysis*  
