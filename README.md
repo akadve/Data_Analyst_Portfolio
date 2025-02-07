@@ -64,4 +64,4 @@ Cheers,
 Annmay Kadve ✌️  
 📧 Email: amkadve1@gmail.com
 🔗 LinkedIn: [Annmay Kadve](https://linkedin.com/in/annmay-kadve)  
-📂 GitHub: [GitHub Profile](https://github.com/your-github-profile)  
+📂 GitHub: [GitHub Profile](https://github.com/akadve)  
