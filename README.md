@@ -18,10 +18,10 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 ---
 
 ### 2. **R: The Data Science Swiss Army Knife 🧰**  
-- 🌎 *Project: World Happiness Report*  
+- 🌎 *Project: [*World Happiness Report*](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/World%20Happiness%20Report.R)
   Explored the happiest (and not-so-happy 😔) places on Earth using ggplot2 and tidyverse. Generated jaw-dropping visualizations that would make statisticians swoon. 💃📊  
 
-- 🧮 *Project: Regression Analysis on Housing Data*  
+- 🧮 *Project: [*Regression Analysis on Housing Data*](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Linear_Regression_Housing_DataAnalysis.R)
   Modeled house prices to help real estate agents make data-backed decisions. Also discovered a knack for R-squared values that scream, "Trust me, I'm significant!" 📐🏡  
 
 ---
