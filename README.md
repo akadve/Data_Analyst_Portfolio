@@ -12,7 +12,7 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 - 🛒 *Project: [*Supermarket Sales Analysis*](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/1.%20Super_Market_Data_Analysis.ipynb)  
   Scraped, cleaned, and analyzed sales data to uncover trends in product performance, branch efficiency, and customer behavior. Bonus? I made Matplotlib and Seaborn look stunning. 📈✨  
 
-- 🎲 *Project: Predictive Analytics with Machine Learning*  
+- 🎲 *Project: [*Predictive Analytics with Machine Learning*](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Predictive_Analytics.ipynb)  
   Built predictive models to forecast customer churn. Used scikit-learn to deliver insights with accuracy so sharp, it could cut butter. 🔪🧈  
 
 ---
