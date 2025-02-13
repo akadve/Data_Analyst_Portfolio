@@ -26,12 +26,16 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 
 ---
 
-### 3. **Excel: Beyond Rows and Columns 🧙‍♂️**  
-- 💼 *Project: Financial Dashboard for SMEs*  
-  Created an interactive Excel dashboard to track KPIs, financial metrics, and profitability trends. VLOOKUP and PivotTables have never felt so alive. 🚀💵  
+**3 Excel: Beyond Rows and Columns �‍♂️**  
 
-- 🧮 *Project: Budget Optimization*  
-  Used solver tools to optimize marketing spend for maximum ROI. Yes, Excel is not just for accountants. 🤝📉  
+1. **💼 Project: Sales Dashboard**  
+   Built a dynamic Excel dashboard to visualize sales performance, track revenue trends, and monitor key metrics like conversion rates and average order value. PivotTables and slicers made data exploration a breeze. 🚀📊  
+
+2. **📊 Project: Sales Distribution Dashboard**  
+   Designed an interactive dashboard to analyze sales distribution across regions, products, and time periods. Used conditional formatting and charts to highlight top-performing areas and identify growth opportunities. 🌍📈  
+
+3. **👥 Project: Customer Analysis Dashboard**  
+   Created a comprehensive dashboard to segment customers based on purchasing behavior, lifetime value, and demographics. Leveraged advanced filters and formulas to uncover insights for targeted marketing strategies. 🎯💡  
 
 ---
 
