@@ -6,7 +6,7 @@ library(ggplot2)
 library(dplyr)
 library(car)
 # 1. Load the data
-data <- read.csv('C:/Users/nikol/365/365 - Courses/365 Data Science/Working/In-house/Projects/R project/housing_data.csv')
+data <- read.csv('C:/Users/akadve/365/365 - Courses/365 Data Science/Working/In-house/Projects/R project/housing_data.csv')
 
 # 2. Summary statistics
 print(summary(data))
