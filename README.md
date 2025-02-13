@@ -30,14 +30,15 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 
 1. **💼 Project: Sales Dashboard**  
    Built a dynamic Excel dashboard to visualize sales performance, track revenue trends, and monitor key metrics like conversion rates and average order value. PivotTables and slicers made data exploration a breeze. 🚀📊
-  ![Alt Text](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Customer%20Analysis%20Dashboard.png)
-   
-
+   ![Alt Text](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Sales%20Dashboard.png)
+ 
 3. **📊 Project: Sales Distribution Dashboard**  
-   Designed an interactive dashboard to analyze sales distribution across regions, products, and time periods. Used conditional formatting and charts to highlight top-performing areas and identify growth opportunities. 🌍📈  
+   Designed an interactive dashboard to analyze sales distribution across regions, products, and time periods. Used conditional formatting and charts to highlight top-performing areas and identify growth opportunities. 🌍📈
+   ![Alt Text](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Sales%20Distribution.png)
 
-4. **👥 Project: Customer Analysis Dashboard**  
-   Created a comprehensive dashboard to segment customers based on purchasing behavior, lifetime value, and demographics. Leveraged advanced filters and formulas to uncover insights for targeted marketing strategies. 🎯💡  
+5. **👥 Project: Customer Analysis Dashboard**  
+   Created a comprehensive dashboard to segment customers based on purchasing behavior, lifetime value, and demographics. Leveraged advanced filters and formulas to uncover insights for targeted marketing strategies. 🎯💡
+     ![Alt Text](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Customer%20Analysis%20Dashboard.png)
 
 ---
 
