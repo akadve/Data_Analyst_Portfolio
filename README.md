@@ -30,7 +30,7 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 
 1. **💼 Project: Sales Dashboard**  
    Built a dynamic Excel dashboard to visualize sales performance, track revenue trends, and monitor key metrics like conversion rates and average order value. PivotTables and slicers made data exploration a breeze. 🚀📊
-  ![Alt Text]([IMAGE_URL](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Customer%20Analysis%20Dashboard.png))
+  ![Alt Text](https://github.com/akadve/Data_Analyst_Portfolio/blob/main/Customer%20Analysis%20Dashboard.png)
    
 
 3. **📊 Project: Sales Distribution Dashboard**  
