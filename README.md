@@ -43,11 +43,31 @@ Here’s a sneak peek at the treasure trove of projects I’ve included in this 
 ---
 
 ### 4. **Visualizations: Eye Candy for Insights 👀🍭**  
-- 📊 *Tableau: Customer Segmentation Dashboard*  
-  Built a Tableau dashboard that transforms complex data into intuitive stories. Every click leads to a "Wow, I get it now!" moment. ✨  
+📊 **Tableau: NYC Community Service Requests Dashboard**  
+Dive into the heart of NYC with this interactive dashboard. Every click reveals the pulse of the city's community service requests. [Explore here](https://public.tableau.com/app/profile/annmay.kadve/viz/NYCCommunityServiceRequestsDashboard/Overview)  
 
-- 📊 *Power BI: Sales Performance Tracker*  
-  Crafted dynamic dashboards to monitor sales across regions and products. Drilldowns so seamless, you'll forget you're analyzing data. 🕵️‍♂️🎨  
+📊 **Tableau: Web Traffic Dashboard**  
+Uncover the story behind web traffic trends. This dashboard turns clicks into actionable insights. [Check it out](https://public.tableau.com/app/profile/annmay.kadve/viz/WebTrafficDashboard_17389948809880/Cockpit)  
+
+📊 **Tableau: H1B Dashboard**  
+Navigate the complexities of H1B visa data with ease. A dashboard that simplifies the journey. [See it live](https://public.tableau.com/app/profile/annmay.kadve/viz/H1BDashboard_17389947181010/Dashboard)  
+
+📊 **Tableau: Thinking of a Date Night or Party Night**  
+Plan your perfect night out with this fun and insightful dashboard. [Get inspired](https://public.tableau.com/app/profile/annmay.kadve/viz/ThinkingofaDateNightorPartyNight/DatenightorPartynight)  
+
+📊 **Tableau: The Startup Race is On**  
+Track the startup ecosystem with this dynamic dashboard. Every chart tells a story of innovation. [Explore now](https://public.tableau.com/app/profile/annmay.kadve/viz/Thestartupraceison_17389857768040/Startups)  
+
+📊 **Tableau: Spend Analytics Dashboard**  
+Turn spending data into strategic decisions. A dashboard that makes analytics look easy. [Dive in](https://public.tableau.com/app/profile/annmay.kadve/viz/SpendAnalyticsDashboard_17389852765880/VendorDetail)  
+
+📊 **Tableau: HR Dashboard**  
+Visualize workforce trends and HR metrics with clarity. A dashboard that empowers HR professionals. [See it here](https://public.tableau.com/app/profile/annmay.kadve/viz/HRDashboard_17389851653080/HRDASHBOARD)  
+
+📊 **Tableau: Google Play Store Apps - Analysis**  
+Explore the world of apps with this comprehensive dashboard. Insights at your fingertips. [Discover more](https://public.tableau.com/app/profile/annmay.kadve/viz/GooglePlayStoreApps-Analysis_17389850642290/Dashboard)  
+
+Every dashboard is a gateway to "Wow, I get it now!" moments. ✨  
 
 ---
 
